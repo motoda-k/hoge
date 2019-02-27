@@ -1,0 +1,3 @@
+[submodule "fuga"]
+	path = fuga
+	url = git@github.com:motoda-k/fuga.git
